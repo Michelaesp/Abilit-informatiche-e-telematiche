@@ -1,0 +1,15 @@
+1     1          135     VISTA_Y     +atm     lambda_c=     1.0211e+04     AB-Vega=     xxxx
+2     137     233     VISTA_J     +atm     lambda_c=     1.2541e+04     AB-Vega=     xxxx
+3     371     382     VISTA_H     +atm     lambda_c=     1.6464e+04     AB-Vega=     xxxx
+4     754     434     VISTA_Ks     +atm     lambda_c=     2.1487e+04     AB-Vega=     xxxx
+5     1189     161     COSMOS/SUBARU_filter_B.txt     lambda_c=     4.4480e+03     AB-Vega=-0.112
+6     1351     107     COSMOS/SUBARU_filter_V.txt     lambda_c=     5.4702e+03     AB-Vega=-0.000
+7     1459     118     COSMOS/SUBARU_filter_g.txt     lambda_c=     4.7609e+03     AB-Vega=-0.101
+8     1578     92     COSMOS/SUBARU_filter_r.txt     lambda_c=     6.2755e+03     AB-Vega=     0.154
+9     1671     94     COSMOS/SUBARU_filter_i.txt     lambda_c=     7.6712e+03     AB-Vega=     0.380
+10     1766     81     COSMOS/SUBARU_filter_z.txt     lambda_c=     9.0282e+03     AB-Vega=     0.514
+11     1848     132     megaprime/cfht_mega_u_cfh9301.dat     CFHT-LS+atm     lambda_c=     3.8280e+03     AB-Vega=     0.325
+12     1981     94     IRAC/irac_tr1_2004-08-09.dat     3.6micron     lambda_c=     3.5569e+04     AB-Vega=     2.781
+13     2076     86     IRAC/irac_tr2_2004-08-09.dat     4.5micron     lambda_c=     4.5020e+04     AB-Vega=     3.254
+14     2163     95     IRAC/irac_tr3_2004-08-09.dat     5.8micron     lambda_c=     5.7450e+04     AB-Vega=     3.747
+15     2259     158     IRAC/irac_tr4_2004-08-09.dat     8.0micron     lambda_c=     7.9158e+04     AB-Vega=     4.387
